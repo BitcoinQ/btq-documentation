@@ -22,7 +22,6 @@ Start here to begin using the BTQ and all of the cool features available!
 {% tab title="Build" %}
 ### Advanced Documentation
 
-\
 From API calls to address schemes, cli commands and Docker nodes. This is where all of the technical things are kept!
 
 
