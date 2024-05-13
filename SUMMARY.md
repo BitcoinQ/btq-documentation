@@ -7,6 +7,7 @@
 ## BTQ Wallet
 
 * [BTQ Wallet Overview](btq-wallet/btq-wallet-overview.md)
+* [BTQ Wallet Create](btq-wallet/btq-wallet-create.md)
 
 ## BTQ Mining
 
