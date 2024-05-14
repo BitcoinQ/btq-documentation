@@ -16,9 +16,10 @@
 ## BTQ node
 
 * [BTQ Node Overview](btq-node/btq-node-overview.md)
+* [BTQ Node Info](btq-node/btq-node-info.md)
 
-## Group 1
+## Basic Tutorial
 
-* [How to Swap Tokens on Solana Using Serum DEX](group-1/how-to-swap-tokens-on-solana-using-serum-dex.md)
-* [How to Swap Tokens on PancakeSwap](group-1/how-to-swap-tokens-on-pancakeswap.md)
-* [How to Swap Tokens on Uniswap](group-1/how-to-swap-tokens-on-uniswap.md)
+* [How to Swap Tokens on Solana Using Serum DEX](basic-tutorial/how-to-swap-tokens-on-solana-using-serum-dex.md)
+* [How to Swap Tokens on PancakeSwap](basic-tutorial/how-to-swap-tokens-on-pancakeswap.md)
+* [How to Swap Tokens on Uniswap](basic-tutorial/how-to-swap-tokens-on-uniswap.md)
