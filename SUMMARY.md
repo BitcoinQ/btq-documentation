@@ -20,6 +20,8 @@
 
 ## Basic Tutorial
 
-* [How to Swap Tokens on Solana Using Serum DEX](basic-tutorial/how-to-swap-tokens-on-solana-using-serum-dex.md)
-* [How to Swap Tokens on PancakeSwap](basic-tutorial/how-to-swap-tokens-on-pancakeswap.md)
-* [How to Swap Tokens on Uniswap](basic-tutorial/how-to-swap-tokens-on-uniswap.md)
+* [Swap Token](basic-tutorial/swap-token/README.md)
+  * [How to Swap Tokens on Solana Using Serum DEX](basic-tutorial/swap-token/how-to-swap-tokens-on-solana-using-serum-dex.md)
+  * [How to Swap Tokens on PancakeSwap](basic-tutorial/swap-token/how-to-swap-tokens-on-pancakeswap.md)
+  * [How to Swap Tokens on Uniswap](basic-tutorial/swap-token/how-to-swap-tokens-on-uniswap.md)
+* [How to Buy BTQ During the ICO](basic-tutorial/how-to-buy-btq-during-the-ico.md)
