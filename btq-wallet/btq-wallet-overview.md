@@ -106,7 +106,7 @@ Public and private keys can be stored in a multitude of ways and are typically u
 These keys should never be shared! Anyone can transfer funds using a secret key.
 {% endhint %}
 
-**Example QRL Mnemonic**[**​**](https://docs.theqrl.org/use/wallet/overview#example-qrl-mnemonic)
+**Example BTQ Mnemonic**[**​**](https://docs.theqrl.org/use/wallet/overview#example-qrl-mnemonic)
 
 This list of 34 works represents the same key as the hexseed, with each word corresponding to an index location in the BTQ wordlist. This list is converted into binary/hexadecimal representation of the private keys.
 

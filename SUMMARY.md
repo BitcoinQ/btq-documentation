@@ -29,6 +29,7 @@
 * [BTQ Node Info](btq-node/btq-node-info.md)
 * [BTQ Node Requirements](btq-node/btq-node-requirements.md)
 * [BTQ Node Uses](btq-node/btq-node-uses.md)
+* [BTQ Node Config](btq-node/btq-node-config.md)
 * [BTQ Node Maintenance](btq-node/btq-node-maintenance.md)
 
 ## Basic Tutorial

@@ -20,7 +20,7 @@ Transactions processed through a local, secure node are protected from tampering
 
 ## Wallet Functions
 
-A BTQ node plays a crucial role in broadcasting signed transactions to the network, ensuring they are added to a block that is validated and agreed upon by the network consensus. Transactions requiring a one-time signature (OTS) key for actions like sending BTQ, messaging, notarizing data, or creating tokens must be processed through a node. All QRL wallet tools have the functionality to interact with a local node.
+A BTQ node plays a crucial role in broadcasting signed transactions to the network, ensuring they are added to a block that is validated and agreed upon by the network consensus. Transactions requiring a one-time signature (OTS) key for actions like sending BTQ, messaging, notarizing data, or creating tokens must be processed through a node. All BTQ wallet tools have the functionality to interact with a local node.
 
 ## Chain Analytics Functions
 
