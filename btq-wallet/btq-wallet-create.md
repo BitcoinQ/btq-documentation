@@ -12,7 +12,7 @@ Creating a new wallet in a cryptocurrency system is a critical step for securely
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Create Wallet BitcoinQ</p></figcaption></figure>
 
-1. **Open the Wallet Creation Page:** Begin by navigating to the cryptocurrency wallet creation interface where you are prompted to enter a passphrase and confirm it.
+1. [**Open the Wallet Creation Page**](https://wallet.bitcoinq.xyz)**:** Begin by navigating to the cryptocurrency wallet creation interface where you are prompted to enter a passphrase and confirm it.
 2. **Enter a Secure Passphrase:**
    * **Passphrase Requirements:** Your passphrase should be robust, containing at least 8 characters, including at least one number and one letter. Consider using a mix of upper and lower case letters, numbers, and symbols to increase security.
    * **Inputting the Passphrase:** Type your chosen passphrase into the "Passphrase" field. Make sure to remember it or store it securely, as losing the passphrase could result in losing access to your funds.
