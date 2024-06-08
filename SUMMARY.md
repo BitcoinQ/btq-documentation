@@ -17,6 +17,15 @@
   * [Send BTQ](btq-wallet/btq-web-wallet/send-btq.md)
   * [Backup](btq-wallet/btq-web-wallet/backup.md)
 
+## BTQ Block Explorer
+
+* [BTQ Explorer Usage](btq-block-explorer/btq-explorer-usage.md)
+* [BTQ Explorer Overview](btq-block-explorer/btq-explorer-overview.md)
+* [BTQ Explorer Address Lookup](btq-block-explorer/btq-explorer-address-lookup.md)
+* [BTQ Explorer Transaction Lookup](btq-block-explorer/btq-explorer-transaction-lookup.md)
+* [BTQ Explorer Block Lookup](btq-block-explorer/btq-explorer-block-lookup.md)
+* [BTQ Message Overview](btq-block-explorer/btq-message-overview.md)
+
 ## BTQ Mining
 
 * [BTQ Mining Overview](btq-mining/btq-mining-overview.md)
