@@ -12,11 +12,16 @@
 ## BTQ Mining
 
 * [BTQ Mining Overview](btq-mining/btq-mining-overview.md)
+* [BTO Solo Mining](btq-mining/bto-solo-mining.md)
+* [BTQ Pool Mining](btq-mining/btq-pool-mining.md)
 
 ## BTQ node
 
 * [BTQ Node Overview](btq-node/btq-node-overview.md)
 * [BTQ Node Info](btq-node/btq-node-info.md)
+* [BTQ Node Requirements](btq-node/btq-node-requirements.md)
+* [BTQ Node Uses](btq-node/btq-node-uses.md)
+* [BTQ Node Maintenance](btq-node/btq-node-maintenance.md)
 
 ## Basic Tutorial
 
