@@ -8,6 +8,14 @@
 
 * [BTQ Wallet Overview](btq-wallet/btq-wallet-overview.md)
 * [BTQ Wallet Create](btq-wallet/btq-wallet-create.md)
+* [BTQ Check Wallet Balance](btq-wallet/btq-check-wallet-balance.md)
+* [BTQ Address Overview](btq-wallet/btq-address-overview.md)
+* [BTQ Web Wallet](btq-wallet/btq-web-wallet/README.md)
+  * [Overview BTQ Web Wallet](btq-wallet/btq-web-wallet/overview-btq-web-wallet.md)
+  * [New BTQ Address](btq-wallet/btq-web-wallet/new-btq-address.md)
+  * [Open BTQ Wallet](btq-wallet/btq-web-wallet/open-btq-wallet.md)
+  * [Send BTQ](btq-wallet/btq-web-wallet/send-btq.md)
+  * [Backup](btq-wallet/btq-web-wallet/backup.md)
 
 ## BTQ Mining
 

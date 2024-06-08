@@ -41,7 +41,7 @@ You must save the details on this page or risk losing funds sent or allocated to
 
 1. **BTQ Address:**
    * **Purpose:** This is your public wallet address, used to receive funds. Think of it as your account number in the world of cryptocurrency.
-   * **Example:** `0Q10050096ff9e16c83e2f146bff7223526875d0848b95ae0d8c0d7a444419403142b2ceef1f2a3`
+   * **Example:** `Q10050096ff9e16c83e2f146bff7223526875d0848b95ae0d8c0d7a444419403142b2ceef1f2a3`
    * **Security Tip:** You can share this address publicly to receive funds, but never your private keys or passphrase.
 2. **Mnemonic Phrase:**
    * **Purpose:** This is a human-readable form of your wallet’s private key, usually composed of 12 or more words. It's used to recover your wallet if you lose access to your device.
