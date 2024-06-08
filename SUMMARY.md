@@ -30,7 +30,12 @@
 * [BTQ Node Requirements](btq-node/btq-node-requirements.md)
 * [BTQ Node Uses](btq-node/btq-node-uses.md)
 * [BTQ Node Config](btq-node/btq-node-config.md)
+* [BTQ Node Installation](btq-node/btq-node-installation.md)
 * [BTQ Node Maintenance](btq-node/btq-node-maintenance.md)
+* [BTQ Node CLI Wallet](btq-node/btq-node-cli-wallet/README.md)
+  * [BTQ Node Command Line Interface](btq-node/btq-node-cli-wallet/btq-node-command-line-interface.md)
+  * [BTQ Node CLI Wallet - Backup](btq-node/btq-node-cli-wallet/btq-node-cli-wallet-backup.md)
+  * [BTQ Node CLI Wallet - Slave Keys](btq-node/btq-node-cli-wallet/btq-node-cli-wallet-slave-keys.md)
 
 ## Basic Tutorial
 

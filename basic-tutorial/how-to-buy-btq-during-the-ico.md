@@ -10,7 +10,9 @@ description: >-
 
 ### Step 1: Access the ICO Purchase Page
 
-Navigate to the BTQ ICO purchase page on the official website. You will see a form like the one below:
+Navigate to the BTQ ICO purchase page on the official website.&#x20;
+
+BTQ ICO Official Website: [https://ico.bitcoinq.xyz](https://ico.bitcoinq.xyz)
 
 ### Step 2: Select the Amount of BTQ
 
