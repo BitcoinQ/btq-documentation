@@ -16,7 +16,7 @@ Our documentation is organized into three primary sections: 'Use,' 'Build,' and 
 
 Start here to begin using the BTQ and all of the cool features available!
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>BTQ Wallet</strong></td><td>Creating Addresses, Sending and Receiving BTQ</td><td></td></tr><tr><td><strong>BTQ</strong> <strong>Mining</strong></td><td>Full Node Solo Mining and Pool Mining</td><td></td></tr><tr><td><strong>BTQ Node</strong></td><td>BTQ Node installations, configuration and operation</td><td></td></tr><tr><td><strong>BTQ Tools</strong></td><td>BTQ Tools Usage and guides</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="broken-reference"><strong>BTQ Wallet</strong></a></td><td>Creating Addresses, Sending and Receiving BTQ</td><td></td></tr><tr><td><a href="broken-reference"><strong>BTQ</strong> <strong>Mining</strong></a></td><td>Full Node Solo Mining and Pool Mining</td><td></td></tr><tr><td><a href="broken-reference"><strong>BTQ Node</strong></a></td><td>BTQ Node installations, configuration and operation</td><td></td></tr><tr><td><strong>BTQ Tools</strong></td><td>BTQ Tools Usage and guides</td><td></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Build" %}
