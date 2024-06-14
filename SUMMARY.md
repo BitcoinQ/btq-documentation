@@ -4,6 +4,7 @@
 * [What is BTQ ?](what-is-btq.md)
 * [BTQ Whitepaper](btq-whitepaper.md)
 * [BTQ Tokenomics](btq-tokenomics.md)
+* [Special Airdrop Program During Early Development Phase](special-airdrop-program-during-early-development-phase.md)
 * [Latest Research and Developments in BTQ Technology](latest-research-and-developments-in-btq-technology.md)
 
 ## BTQ Wallet
