@@ -43,3 +43,19 @@ _Note: This list is not comprehensive and does not endorse any project. Most Ran
 Most mining pools provide a "Getting Started" section on their website to assist with the setup. For further support, consider joining the BTQ community chat or forums.
 
 This guide serves as a basic introduction to pool mining for BTQ, tailored for those who prefer not to manage a full node but still wish to participate in mining.
+
+## BTQ Mining Pools
+
+Below are the links to the Bitcoin Quantum (BTQ) mining pools:
+
+* Silicon Valley, USA: [us.silicon-valley.pool.bitcoinq.xyz](https://us.silicon-valley.pool.bitcoinq.xyz)
+* Phoenix, USA: [us.phoenix.pool.bitcoinq.xyz](https://us.phoenix.pool.bitcoinq.xyz)
+* Dubai, UAE: [uae.dubai.pool.bitcoinq.xyz](https://uae.dubai.pool.bitcoinq.xyz)
+* Singapore: [sg.singapore.pool.bitcoinq.xyz](https://sg.singapore.pool.bitcoinq.xyz)
+* Shanghai, China: [qq.shanghai.pool.bitcoinq.xyz](https://qq.shanghai.pool.bitcoinq.xyz)
+* Hong Kong: [qq.hongkong.pool.bitcoinq.xyz](https://qq.hongkong.pool.bitcoinq.xyz)
+* Shanghai, China: [qq.cn-sh.pool.bitcoinq.xyz](https://qq.cn-sh.pool.bitcoinq.xyz)
+* Jakarta, Indonesia: [in.jakarta.pool.bitcoinq.xyz](https://in.jakarta.pool.bitcoinq.xyz)
+* Hong Kong, China: [cn.hongkong.pool.bitcoinq.xyz](https://cn.hongkong.pool.bitcoinq.xyz)
+
+You can join any of these pools to combine computational power and share BTQ rewards efficiently.
