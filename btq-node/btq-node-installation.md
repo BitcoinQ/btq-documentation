@@ -61,7 +61,7 @@ Follow these instructions to install a BTQ Node on a RedHat-based system:
 7.  **Install BTQ**
 
     ```bash
-    pip3 install --user -U btq
+    pip3 install --user -U bitcoinq
     ```
 
 Here's the adapted installation guide for the BTQ node on Ubuntu:
@@ -95,7 +95,7 @@ Tested on the latest LTS version, Ubuntu 20.04.
 5.  **Install BTQ**
 
     ```bash
-    pip3 install -U btq
+    pip3 install -U bitcoinq
     ```
 
 This guide should help you set up a BTQ node on Ubuntu efficiently.
