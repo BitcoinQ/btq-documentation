@@ -56,4 +56,3 @@
   * [How to Swap Tokens on PancakeSwap](basic-tutorial/swap-token/how-to-swap-tokens-on-pancakeswap.md)
   * [How to Swap Tokens on Uniswap](basic-tutorial/swap-token/how-to-swap-tokens-on-uniswap.md)
 * [Guide to Mine BTQ with XMRig](basic-tutorial/guide-to-mine-btq-with-xmrig.md)
-* [How to Buy BTQ During the ICO](basic-tutorial/how-to-buy-btq-during-the-ico.md)
