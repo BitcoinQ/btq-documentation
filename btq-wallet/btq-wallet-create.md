@@ -10,7 +10,7 @@ This guide will assist you in creating a secure digital wallet for managing your
 
 Creating a new wallet in a cryptocurrency system is a critical step for securely managing your funds. The image you provided shows the interface for creating a wallet, likely for a cryptocurrency that uses XMSS (eXtended Merkle Signature Scheme) for its cryptographic security. Below is a step-by-step tutorial on how to create a wallet based on the interface you shared:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Create Wallet BitcoinQ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Create Wallet BitcoinQ</p></figcaption></figure>
 
 1. [**Open the Wallet Creation Page**](https://wallet.bitcoinq.xyz)**:** Begin by navigating to the cryptocurrency wallet creation interface where you are prompted to enter a passphrase and confirm it.
 2. **Enter a Secure Passphrase:**
@@ -31,7 +31,7 @@ Creating a new wallet in a cryptocurrency system is a critical step for securely
    * **Be Patient:** The creation of the wallet, especially with high security settings, may take a significant amount of time. Wait until the process completes without interrupting.
    * **Confirmation:** Once the wallet is created, you should receive a confirmation along with details about how to access and use your new wallet.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Your new wallet details</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Your new wallet details</p></figcaption></figure>
 
 {% hint style="info" %}
 You must save the details on this page or risk losing funds sent or allocated to this wallet address.
