@@ -52,10 +52,12 @@ Below are the links to the Bitcoin Quantum (BTQ) mining pools:
 * Phoenix, USA: [us.phoenix.pool.bitcoinq.xyz](http://us.phoenix.pool.bitcoinq.xyz)
 * Dubai, UAE: [uae.dubai.pool.bitcoinq.xyz](http://uae.dubai.pool.bitcoinq.xyz)
 * Singapore: [sg.singapore.pool.bitcoinq.xyz](http://sg.singapore.pool.bitcoinq.xyz)
-* Shanghai, China: [qq.shanghai.pool.bitcoinq.xyz](http://qq.shanghai.pool.bitcoinq.xyz)
 * Hong Kong: [qq.hongkong.pool.bitcoinq.xyz](http://qq.hongkong.pool.bitcoinq.xyz)
-* Shanghai, China: [qq.cn-sh.pool.bitcoinq.xyz](http://qq.cn-sh.pool.bitcoinq.xyz)
 * Jakarta, Indonesia: [in.jakarta.pool.bitcoinq.xyz](http://in.jakarta.pool.bitcoinq.xyz)
 * Hong Kong, China: [cn.hongkong.pool.bitcoinq.xyz](http://cn.hongkong.pool.bitcoinq.xyz)
 
 You can join any of these pools to combine computational power and share BTQ rewards efficiently.
+
+{% hint style="info" %}
+Please note that the mining pool in Shanghai, China: [~~qq.shanghai.pool.bitcoinq.xyz~~](http://qq.shanghai.pool.bitcoinq.xyz) has been removed.
+{% endhint %}
