@@ -12,20 +12,21 @@ Bitcoin Quantum has a total supply of 21 million BTQ, allocated for the followin
 
 Moreover, BTQ is pioneering in the cryptographic revolution, incorporating core technological advancements such as the **Extended Merkle Signature Scheme (XMSS).** Recognized by the **National Institute of Standards and Technology (NIST)** for its quantum resistance, XMSS is critical as computing power, alongside capabilities in AI and machine learning, continues to expand, leading to potentially disruptive innovations in data processing and analysis. By adopting this advanced cryptographic standard, BTQ ensures robust security and stability for its digital currency, positioning it to effectively navigate and lead in the transforming landscape of cryptography amidst these technological advancements.
 
-| Allocation | Amount         | Percentage of Total Supply |
-| ---------- | -------------- | -------------------------- |
-| Mining     | 18.000.000     | 85.7%                      |
-| Foundation | 1.000.000      | 4.8%                       |
-| Marketing  | 1.000.000      | 4.8%                       |
-| ICO        | 1.000.000      | 4.8%                       |
-| **Total**  | **21.000.000** | **100%**                   |
+| Allocation                             | Amount         | Percentage of Total Supply |
+| -------------------------------------- | -------------- | -------------------------- |
+| Mining                                 | 18.000.000     | 85.7%                      |
+| Foundation Wallet 1 **(20-year lock)** | 1.000.000      | 4.8%                       |
+| Foundation Wallet 2 **(20-year lock)** | 1.000.000      | 4.8%                       |
+| ICO                                    | 1.000.000      | 4.8%                       |
+| **Total**                              | **21.000.000** | **100%**                   |
 
 This allocation ensures network security, promotes project development, and broadens the project’s reach.
 
 ## Specific Wallet Addresses
 
-* **Address Foundation:** [Q01050016b742d9e39095080478396d6c690f416e0ca287c77505eace4cd18103096a0468ddf059](https://explorer.bitcoinq.xyz/a/Q01050016b742d9e39095080478396d6c690f416e0ca287c77505eace4cd18103096a0468ddf059)
-* **Address Marketing:** [Q010600a83ae82009b3085a85705433dfdba02076e35141d1bcc8278cb9118deb1f67c662d23d85](https://explorer.bitcoinq.xyz/a/Q010600a83ae82009b3085a85705433dfdba02076e35141d1bcc8278cb9118deb1f67c662d23d85)
+* **Address Foundation Wallet (20-year lock):** [Q010500d187c52fc382253f8149315cead7f3b358c956491f0a02acc3e61d08e9dbd4008e7d2c34](https://explorer.bitcoinq.xyz/a/Q010500d187c52fc382253f8149315cead7f3b358c956491f0a02acc3e61d08e9dbd4008e7d2c34)
+* **Address Foundation Wallet (20-year lock):**\
+  [Q01050087df76e438b6d7bae0b23650925f454b0aa18547d31ceeb936d12794b11a767628951782](https://explorer.bitcoinq.xyz/a/Q01050087df76e438b6d7bae0b23650925f454b0aa18547d31ceeb936d12794b11a767628951782)
 * **Address ICO:** [Q010600a62a5b9839813c7d9047838298a267e37c14bbeae0164a8aad0571c5a91781d663326cd5](https://explorer.bitcoinq.xyz/a/Q010600a62a5b9839813c7d9047838298a267e37c14bbeae0164a8aad0571c5a91781d663326cd5)
 
 ## Allocation Details
