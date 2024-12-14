@@ -8,15 +8,14 @@ description: >-
 
 ## What is BTQ ?&#x20;
 
-BTQ is a state-of-the-art cryptocurrency that combines Bitcoin's trusted economic framework with advanced quantum-resistant security measures. It maintains a total supply of 21 million units, mirroring Bitcoin's limited availability. BTQ distinguishes itself by utilizing a dual-mining approach: it supports CPU-friendly RandomX algorithm and extends to GPU mining with Cryptonight cn/0. This combination democratizes mining and minimizes the risk of hardware centralization. BTQ features a unique emission schedule spread over approximately 1000 years, with a 5% decrease in block rewards every 525,600 blocks, aiming for long-term sustainability and market stability. Moreover, BTQ is advancing its technology with the development of a Proof-of-Stake system, ensuring it remains resilient and efficient amidst the evolving blockchain technology landscape and quantum computing advancements.
+BTQ is a state-of-the-art cryptocurrency that combines Bitcoin's trusted economic framework with advanced quantum-resistant security measures. It maintains a total supply of 21 million units, mirroring Bitcoin's limited availability. BTQ distinguishes itself by utilizing a dual-mining approach: it supports CPU-friendly RandomX algorithm and extends to GPU mining with Cryptonight cn/0. This combination democratizes mining and minimizes the risk of hardware centralization. BTQ features a unique emission schedule spread over approximately 1000 years, with a 5% decrease in block rewards every 525,600 blocks, aiming for long-term sustainability and market stability.&#x20;
 
 ### Reasons to Use BTQ
 
 1. **Quantum-Resistant Security**: BTQ employs the Extended Merkle Signature Scheme (XMSS), a hash-based signature method designed to withstand threats from quantum computing. This ensures that users' digital assets remain secure even as quantum computing technology advances.
 2. **Fair Dual Mining Approach**: BTQ adopts a dual-mining approach, supporting both CPU (with the RandomX algorithm) and GPU (with Cryptonight cn/0) mining. This method democratizes mining and reduces the concentration of mining power in the hands of a few.
 3. **Long-Term Emission Plan**: With an emission schedule extending over 1000 years and a 5% reduction in block rewards every 525,600 blocks, BTQ aims for long-term sustainability and market stability, encouraging investors and users to think long-term.
-4. **Development of a Proof-of-Stake System**: BTQ is developing a Proof-of-Stake system, which not only reduces the cost and energy consumption of mining but also enhances the security and efficiency of the network, preparing for potential future shifts in blockchain technology.
-5. **Distinct Economic Model**: With a fixed total supply of 21 million units, BTQ offers an economic model similar to Bitcoin's but enhanced to meet new-age challenges, particularly the cybersecurity concerns posed by the development of quantum computing.
+4. **Distinct Economic Model**: With a fixed total supply of 21 million units, BTQ offers an economic model similar to Bitcoin's but enhanced to meet new-age challenges, particularly the cybersecurity concerns posed by the development of quantum computing.
 
 These distinctive features make BTQ a compelling cryptocurrency choice for anyone interested in security, sustainability, and long-term viability in the digital currency space.
 
