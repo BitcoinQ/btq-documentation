@@ -2,6 +2,7 @@
 description: >-
   To guide users on how to buy BTQ (Bitcoin Quantum) through the ICO interface
   shown in the image, here's a step-by-step instruction:
+hidden: true
 ---
 
 # Guide to buy BTQ (ICO)
