@@ -24,10 +24,10 @@ This allocation ensures network security, promotes project development, and broa
 
 ## Specific Wallet Addresses
 
-* **Address Foundation Wallet (20-year lock):** [Q010500d187c52fc382253f8149315cead7f3b358c956491f0a02acc3e61d08e9dbd4008e7d2c34](https://explorer.bitcoinq.xyz/a/Q010500d187c52fc382253f8149315cead7f3b358c956491f0a02acc3e61d08e9dbd4008e7d2c34)
+* **Address Foundation Wallet (20-year lock):** [Q010500d187c52fc382253f8149315cead7f3b358c956491f0a02acc3e61d08e9dbd4008e7d2c34](https://explorer.bitcoinq.xyz/address/Q010500d187c52fc382253f8149315cead7f3b358c956491f0a02acc3e61d08e9dbd4008e7d2c34)
 * **Address Foundation Wallet (20-year lock):**\
-  [Q01050087df76e438b6d7bae0b23650925f454b0aa18547d31ceeb936d12794b11a767628951782](https://explorer.bitcoinq.xyz/a/Q01050087df76e438b6d7bae0b23650925f454b0aa18547d31ceeb936d12794b11a767628951782)
-* **Address ICO:** [Q010600a62a5b9839813c7d9047838298a267e37c14bbeae0164a8aad0571c5a91781d663326cd5](https://explorer.bitcoinq.xyz/a/Q010600a62a5b9839813c7d9047838298a267e37c14bbeae0164a8aad0571c5a91781d663326cd5)
+  [Q01050087df76e438b6d7bae0b23650925f454b0aa18547d31ceeb936d12794b11a767628951782](https://explorer.bitcoinq.xyz/address/Q01050087df76e438b6d7bae0b23650925f454b0aa18547d31ceeb936d12794b11a767628951782)
+* **Address ICO:** [Q010600a62a5b9839813c7d9047838298a267e37c14bbeae0164a8aad0571c5a91781d663326cd5](https://explorer.bitcoinq.xyz/address/Q010600a62a5b9839813c7d9047838298a267e37c14bbeae0164a8aad0571c5a91781d663326cd5)
 
 ## Allocation Details
 

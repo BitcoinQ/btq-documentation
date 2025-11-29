@@ -23,9 +23,7 @@ XMSS is recognized for providing robust digital signatures that do not depend on
 
 **Reference**: A. Huelsing (TU Eindhoven), D. Butin (TU Darmstadt), S. Gazdag (genua GmbH), J. Rijneveld (Radboud University), A. Mohaisen (University of Central Florida)
 
-\
+<br>
 
-
-\
-
+<br>
 
