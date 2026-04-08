@@ -17,7 +17,7 @@ Moreover, BTQ is pioneering in the cryptographic revolution, incorporating core 
 | Mining                                 | 18.000.000     | 85.7%                      |
 | Foundation Wallet 1 **(20-year lock)** | 1.000.000      | 4.8%                       |
 | Foundation Wallet 2 **(20-year lock)** | 1.000.000      | 4.8%                       |
-| ICO                                    | 1.000.000      | 4.8%                       |
+| Native Coin                            | 1.000.000      | 4.8%                       |
 | **Total**                              | **21.000.000** | **100%**                   |
 
 This allocation ensures network security, promotes project development, and broadens the project’s reach.
@@ -27,7 +27,7 @@ This allocation ensures network security, promotes project development, and broa
 * **Address Foundation Wallet (20-year lock):** [Q010500d187c52fc382253f8149315cead7f3b358c956491f0a02acc3e61d08e9dbd4008e7d2c34](https://explorer.bitcoinq.xyz/address/Q010500d187c52fc382253f8149315cead7f3b358c956491f0a02acc3e61d08e9dbd4008e7d2c34)
 * **Address Foundation Wallet (20-year lock):**\
   [Q01050087df76e438b6d7bae0b23650925f454b0aa18547d31ceeb936d12794b11a767628951782](https://explorer.bitcoinq.xyz/address/Q01050087df76e438b6d7bae0b23650925f454b0aa18547d31ceeb936d12794b11a767628951782)
-* **Address ICO:** [Q010600a62a5b9839813c7d9047838298a267e37c14bbeae0164a8aad0571c5a91781d663326cd5](https://explorer.bitcoinq.xyz/address/Q010600a62a5b9839813c7d9047838298a267e37c14bbeae0164a8aad0571c5a91781d663326cd5)
+* **Address Native Coin:** [Q0105002e75421e41abbf14b693774893e861e7b09943f5684351ed73ac5318ef924ddf2721043c](https://explorer.bitcoinq.xyz/address/Q0105002e75421e41abbf14b693774893e861e7b09943f5684351ed73ac5318ef924ddf2721043c)
 
 ## Allocation Details
 
@@ -53,9 +53,17 @@ The BTQ Foundation supports the project's activities, including technology devel
 
 This allocation is used to promote BTQ, including marketing campaigns, community events, and activities aimed at expanding global awareness and usage of BTQ.
 
-### **ICO**
+### **Native Coin Sale**
 
-Funds raised from the ICO are used to finance the early stages of project development, including legal fees, technical development, and other startup activities.
+BTQ is the native coin of the Bitcoin Quantum blockchain. It is NOT a token built on another chain.
+
+The project does not provide liquidity, does not create trading pairs, and does not guarantee listing on any exchange.
+
+All listing, trading pair creation, and liquidity provision activities are entirely managed by the community, third-party projects, and ecosystem partners working together to grow the BTQ ecosystem.
+
+### Open Source & Community-Driven
+
+Bitcoin Quantum is a fully open-source project that has been completely handed over to the community. The future of BTQ is shaped by its contributors and supporters.
 
 ## Transparency and Governance
 

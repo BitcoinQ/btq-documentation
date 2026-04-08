@@ -2,6 +2,7 @@
 description: >-
   Swapping tokens is an essential function in the crypto ecosystem, allowing
   users to exchange one cryptocurrency for another seamlessly.
+hidden: true
 ---
 
 # Swap Token
