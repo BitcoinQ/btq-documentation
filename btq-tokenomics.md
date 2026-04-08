@@ -6,8 +6,6 @@ description: Tokenomics for Bitcoin Quantum (BTQ)
 
 ## BTQ Tokenomics
 
-<figure><img src=".gitbook/assets/Total Supply 21.000.000 BTQ.jpg" alt=""><figcaption><p>BTQ Tokenomics</p></figcaption></figure>
-
 Bitcoin Quantum has a total supply of 21 million BTQ, allocated for the following purposes. This fixed supply is a strategic choice reflecting the project’s vision to position BTQ as a form of **digital gold,** which is particularly significant in the context of **quantum-resistant technologies**. The fixed and unchangeable supply of BTQ adds scarcity, enhancing its potential value retention over time, thereby making it an attractive asset in an era of rapidly evolving digital security concerns driven by the advances in computing power, artificial intelligence, machine learning, and big data.
 
 Moreover, BTQ is pioneering in the cryptographic revolution, incorporating core technological advancements such as the **Extended Merkle Signature Scheme (XMSS).** Recognized by the **National Institute of Standards and Technology (NIST)** for its quantum resistance, XMSS is critical as computing power, alongside capabilities in AI and machine learning, continues to expand, leading to potentially disruptive innovations in data processing and analysis. By adopting this advanced cryptographic standard, BTQ ensures robust security and stability for its digital currency, positioning it to effectively navigate and lead in the transforming landscape of cryptography amidst these technological advancements.
